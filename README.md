@@ -30,7 +30,7 @@ zsync
 
 ## Todo
 
-- [] Better error handling?
-- [] Better logging
-- [] Faster arguments parsing
-- [] Speed up the merging algorithm
+- [ ] Better error handling?
+- [ ] Better logging
+- [ ] Faster arguments parsing
+- [ ] Speed up the merging algorithm
